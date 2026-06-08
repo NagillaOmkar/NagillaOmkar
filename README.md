@@ -50,7 +50,7 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 </br>
 
 <!--  IRON MAN  -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlzcmRjOGp3emo2MHY3MGN3Mnl6NXVvNTN0ZjBvcmxzOXlmNzFpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q3pp9Y6LxBvoI/giphy.gif" align="right" width="15%" alt="iron-man">
+<img src="https://github.com/NagillaOmkar/NagillaOmkar/blob/main/I'm.gif?raw=true" align="right" width="15%" alt="iron-man">
 
 <!--  MY GITHUB STAT  -->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=NagillaOmkar&theme=tokyonight&hide_border=true" /></p>
