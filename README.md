@@ -51,9 +51,8 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 <!-- IRON MAN & STREAK -->
-<div style="margin-top: 20px; margin-right: 50px; float: right;">
-  <img src="https://github.com/NagillaOmkar/NagillaOmkar/blob/main/I'm.gif?raw=true" width="150" alt="iron-man">
-</div>
+<br>
+<img src="https://github.com/NagillaOmkar/NagillaOmkar/blob/main/I'm.gif?raw=true" align="right" width="15%" alt="iron-man">
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NagillaOmkar&theme=tokyonight&hide_border=true" alt="Streak Stats" /></p>
 
@@ -63,11 +62,9 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 <!-- BOTTOM ARCADE GIF & PIXEL QUOTE -->
-<div style="display: flex; align-items: center; justify-content: left; gap: 20px; margin-top: 10px;">
-  <img src="https://media.tenor.com/dz_3uUplPXEAAAAj/eating-arcade.gif" width="22%" alt="arcade-gif">
-  <div style="margin-top: 10px;">
-    <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=1000&color=00E6EB&width=1000&lines=Programmer:+A+machine;that+turns+coffee+into+code" alt="Pixel Quote" />
-  </div>
+<div style="margin-left: 50px; margin-top: 20px;">
+  <img align="left" src="https://media.tenor.com/dz_3uUplPXEAAAAj/eating-arcade.gif" width="22%" alt="arcade-gif">
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=1000&color=00E6EB&width=500&lines=Programmer:+A+machine;that+turns+coffee+into+code" alt="Pixel Quote" />
 </div>
 
 <br clear="all">
