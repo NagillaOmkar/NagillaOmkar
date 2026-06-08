@@ -16,8 +16,8 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 🌟 I am also actively exploring the exciting world of **Generative AI** and **RAG** (Retrieval-Augmented Generation) to stay ahead of the curve and build smart, modern applications.
 
 <p align="left">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-omkar-vardhan)
-  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagilla.omkarvardhan@gmail.com)
+  <a href="https://www.linkedin.com/in/n-omkar-vardhan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:nagilla.omkarvardhan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 <br clear="all">
@@ -30,18 +30,18 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 
 <div align="right">
   
-### My Core Expertise:
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+<h3>My Core Expertise:</h3>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 
-### Currently Learning & Expanding Into:
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Generative AI](https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=white)]()
+<h3>Currently Learning & Expanding Into:</h3>
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
+<a><img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"></a>
 
 </div>
 
@@ -53,7 +53,7 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 <!-- IRON MAN & STREAK -->
 <img src="https://github.com/NagillaOmkar/NagillaOmkar/blob/main/I'm.gif?raw=true" align="right" width="15%" alt="iron-man">
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NagillaOmkar&theme=tokyonight&hide_border=true" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NagillaOmkar&theme=tokyonight&hide_border=true" alt="Streak Stats" /></p>
 
 <br clear="all">
 
@@ -65,7 +65,7 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&pause=1000&color=00E6EB&center=true&vCenter=true&width=650&lines=Programmer:+A+machine+that+turns+coffee+into+code" alt="Pixel Quote" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&pause=1000&color=00E6EB&center=true&vCenter=true&width=850&lines=Programmer:+A+machine+that+turns+coffee+into+code" alt="Pixel Quote" />
 </p>
 
 <br clear="all">
@@ -78,10 +78,11 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 
 <div align="left">
   
-#### Let's connect and collaborate! 
-<br>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-omkar-vardhan)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagilla.omkarvardhan@gmail.com)
+<h4>Let's connect and collaborate!</h4>
+<p>
+  <a href="https://www.linkedin.com/in/n-omkar-vardhan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:nagilla.omkarvardhan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
 </div>
 <br clear="all">
