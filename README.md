@@ -26,7 +26,7 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 <!-- EXPERTISE & COFFEE -->
-<img align="left" src="https://github.com/NagillaOmkar/NagillaOmkar/blob/main/coffee.gif?raw=true" width="15%" alt="coffee">
+<img align="left" src="https://github.com/NagillaOmkar/NagillaOmkar/blob/main/coffee.gif?raw=true" width="22%" alt="coffee">
 
 <div align="right">
   
@@ -61,12 +61,12 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 <!-- BOTTOM ARCADE GIF & PIXEL QUOTE -->
-<img align="left" src="https://media.tenor.com/dz_3uUplPXEAAAAj/eating-arcade.gif" width="28%" alt="arcade-gif">
+<img align="left" src="https://media.tenor.com/dz_3uUplPXEAAAAj/eating-arcade.gif" width="25%" alt="arcade-gif">
 
-<br>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&pause=1000&color=00E6EB&center=true&vCenter=true&width=850&lines=Programmer:+A+machine+that+turns+coffee+into+code" alt="Pixel Quote" />
-</p>
+<div align="right">
+  <br><br><br>
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&pause=1000&color=00E6EB&width=750&lines=Programmer:+A+machine+that+turns+coffee+into+code" alt="Pixel Quote" />
+</div>
 
 <br clear="all">
 
