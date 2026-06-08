@@ -20,8 +20,8 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-omkar-vardhan)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagilla.omkarvardhan@gmail.com)
 
-<!--  EXCITED CHARACTERS  -->
-<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
+<!--  TOP ANIME GIF  -->
+<img src="https://github.com/NagillaOmkar/NagillaOmkar/blob/main/coffee.gif?raw=true" width="180">&nbsp;
 
 </br>
 
@@ -59,15 +59,15 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 
 </br>
 
-<!--  CAT  -->
-<img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="28%" alt="pikachu-hi">
+<!--  BOTTOM DESK GIF  -->
+<img align="left" src="https://github.com/NagillaOmkar/NagillaOmkar/blob/main/pm.gif?raw=true" width="28%" alt="coding-gif">
 
 <p align="right"><b>A joke a day keeps the bugs away 🐛</b></p>
 <p align="right"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="500" /></p>
 <!--  DIVIDER  -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
-#### Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
+#### Let's connect and collaborate!   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXY3ODIwOTZyc2toN29nY3ZvOWd1OG1uNms0eGV3Y3Q3amJxaDk0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p1sPKlISSvMpa/giphy.gif" width="60"/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-omkar-vardhan)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagilla.omkarvardhan@gmail.com)
