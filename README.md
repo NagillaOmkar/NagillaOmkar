@@ -3,9 +3,9 @@
    <p align="top"> <img src="https://komarev.com/ghpvc/?username=NagillaOmkar&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="NagillaOmkar" /></p>
   </tr>
 
-<!--  PROFILE HEADER RHS IMAGE  -->
+<!--  PROFILE HEADER RHS IMAGE (New Laptop Desk)  -->
 <picture>
-  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNlbmJtZHUwMTMwdzNkNjk1bDBsaXM4d2hvcWR1cGczNWRuZGUxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vh1KrUr6Tvl1RFYYk6/giphy.gif" align="right" width="35%" alt="Laptop Workspace">
 </picture>
 
 <!--  PROFILE HEADER INTRO (LHS)  -->
@@ -21,7 +21,7 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagilla.omkarvardhan@gmail.com)
 
 <!--  ANIME PROGRAMMER (Replaced JJK Chibi)  -->
-<img src="https://media.tenor.com/7A2xUf6n4EEAAAAi/anime-computer.gif" width="180">&nbsp;
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHB1Y3QxZnp2bWxkM3ptbDR4cnlzaDhpeTA0bnNqaGhhaTgyZHY3NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Anime Programmer">&nbsp;
 
 </br>
 
@@ -50,27 +50,20 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 
 </br>
 
-<!--  IRON MAN (Replaced Pikachu) & STREAK  -->
-<p align="center">
-  <img align="left" src="https://media.tenor.com/Q-gA2IitJ38AAAAi/iron-man.gif" width="20%" alt="iron-man">
-  <img align="right" src="https://streak-stats.demolab.com/?user=NagillaOmkar&theme=tokyonight&border_radius=8&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=600&card_height=180&background=30%2C7129B4%2C25463B&stroke=00E6EB" alt="GitHub Streak">
-</p>
+<!--  IRON MAN (Replaced Pikachu)  -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlzcmRjOGp3emo2MHY3MGN3Mnl6NXVvNTN0ZjBvcmxzOXlmNzFpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q3pp9Y6LxBvoI/giphy.gif" align="right" width="15%" alt="iron-man">
 
-<!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
-</br>
-</br>
-
-<!--  MY GITHUB STAT  -->
+<!--  MY GITHUB STAT & STREAK  -->
 <p>  <img src="https://github-readme-stats.vercel.app/api?username=NagillaOmkar&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=tokyonight&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=NagillaOmkar&theme=tokyonight&hide_border=true" /></p>
 
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 </br>
 
-<!--  PROGRAMMER GIF (Replaced Nyan Cat)  -->
-<img align="left" src="https://media.tenor.com/b_8E-PZ4jbwAAAAi/coding-programming.gif" width="28%" alt="programmer-coding">
+<!--  CODING DESK GIF (Replaced Nyan Cat)  -->
+<img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExendjbGV3NjdxMG8zMzZ0ajM3eXY2ZGswY2Nxd2h4eTd5NjJ6eG52eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s4ycVAVuJvXRvK0Rap/giphy.gif" width="28%" alt="programmer-desk">
 
 <p align="right"><b>A joke a day keeps the bugs away 🐛</b></p>
 <p align="right"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="500" /></p>
