@@ -61,12 +61,10 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 <!-- BOTTOM ARCADE GIF & PIXEL QUOTE -->
-<div>
-  <img align="left" src="https://media.tenor.com/dz_3uUplPXEAAAAj/eating-arcade.gif" width="25%" alt="arcade-gif">
-  <br><br><br><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=12&pause=1000&color=00E6EB&width=650&lines=Programmer:+A+machine+that+turns+coffee+into+code" alt="Pixel Quote" />
-</div>
+<p align="left">
+  <img src="https://media.tenor.com/dz_3uUplPXEAAAAj/eating-arcade.gif" width="22%" alt="arcade-gif" align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=12&pause=1000&color=00E6EB&width=550&lines=Programmer:+A+machine+that+turns+coffee+into+code" alt="Pixel Quote" align="center" />
+</p>
 
 <br clear="all">
 
