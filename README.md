@@ -1,7 +1,7 @@
 <!--  PROFILE VISIT COUNTER  -->
-  <tr>
-   <p align="top"> <img src="https://komarev.com/ghpvc/?username=NagillaOmkar&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="NagillaOmkar" /></p>
-  </tr>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NagillaOmkar&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="NagillaOmkar" />
+</p>
 
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
@@ -49,8 +49,8 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 
 </br>
 
-<!--  HI PIKACHU  -->
-<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
+<!--  IRON MAN  -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlzcmRjOGp3emo2MHY3MGN3Mnl6NXVvNTN0ZjBvcmxzOXlmNzFpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q3pp9Y6LxBvoI/giphy.gif" align="right" width="15%" alt="iron-man">
 
 <!--  MY GITHUB STAT  -->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=NagillaOmkar&theme=tokyonight&hide_border=true" /></p>
