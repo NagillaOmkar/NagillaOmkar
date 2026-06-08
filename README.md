@@ -1,14 +1,10 @@
-<!--  PROFILE VISIT COUNTER  -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NagillaOmkar&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="NagillaOmkar" />
-</p>
+<!-- PROFILE VISIT COUNTER -->
+![Profile views](https://komarev.com/ghpvc/?username=NagillaOmkar&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge)
 
-<!--  PROFILE HEADER RHS IMAGE  -->
-<picture>
-  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
-</picture>
+<!-- PROFILE HEADER RHS IMAGE -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExendjbGV3NjdxMG8zMzZ0ajM3eXY2ZGswY2Nxd2h4eTd5NjJ6eG52eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s4ycVAVuJvXRvK0Rap/giphy.gif" align="right" width="35%" alt="Coding Workspace">
 
-<!--  PROFILE HEADER INTRO (LHS)  -->
+<!-- PROFILE HEADER INTRO (LHS) -->
 Hello World! 👋
 
 **Hi, I'm Omkar Vardhan!** 
@@ -20,15 +16,15 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-omkar-vardhan)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagilla.omkarvardhan@gmail.com)
 
-<!--  TOP ANIME GIF  -->
-<img src="https://github.com/NagillaOmkar/NagillaOmkar/blob/main/coffee.gif?raw=true" width="180">&nbsp;
+<br>
 
-</br>
+<!-- COFFEE GIF -->
+<img src="https://github.com/NagillaOmkar/NagillaOmkar/blob/main/coffee.gif?raw=true" width="120" alt="coffee">
 
-<!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+<!-- DIVIDER -->
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
-<!--  EXPERTISE  -->
+<!-- EXPERTISE -->
 ### My Core Expertise:
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
@@ -44,30 +40,33 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Generative AI](https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=white)]()
 
-<!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
-
-</br>
-
-<!--  IRON MAN  -->
-<img src="https://github.com/NagillaOmkar/NagillaOmkar/blob/main/I'm.gif?raw=true" align="right" width="15%" alt="iron-man">
-
-<!--  MY GITHUB STAT  -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=NagillaOmkar&theme=tokyonight&hide_border=true" /></p>
-<!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
-
-</br>
-
-<!--  BOTTOM DESK GIF  -->
-<img align="left" src="https://github.com/NagillaOmkar/NagillaOmkar/blob/main/pm.gif?raw=true" width="28%" alt="coding-gif">
-
-<p align="right"><b>A joke a day keeps the bugs away 🐛</b></p>
-<p align="right"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="500" /></p>
-<!--  DIVIDER  -->
+<!-- DIVIDER -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
-#### Let's connect and collaborate!   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXY3ODIwOTZyc2toN29nY3ZvOWd1OG1uNms0eGV3Y3Q3amJxaDk0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p1sPKlISSvMpa/giphy.gif" width="60"/>
+<!-- IRON MAN -->
+<img src="https://github.com/NagillaOmkar/NagillaOmkar/blob/main/I'm.gif?raw=true" align="right" width="15%" alt="iron-man">
+
+<!-- MY GITHUB STAT -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=NagillaOmkar&theme=tokyonight&hide_border=true" /></p>
+
+<!-- DIVIDER -->
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+<!-- BOTTOM ARCADE GIF -->
+<img align="left" src="https://media.tenor.com/dz_3uUplPXEAAAAj/eating-arcade.gif" width="28%" alt="arcade-gif">
+
+<br><br>
+<p align="right"><b>Programmer: A machine that turns coffee into code</b></p>
+<br><br><br>
+
+<!-- DIVIDER -->
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+<!-- HANDSHAKE GIF -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXY3ODIwOTZyc2toN29nY3ZvOWd1OG1uNms0eGV3Y3Q3amJxaDk0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p1sPKlISSvMpa/giphy.gif" align="right" width="15%" alt="connect-gif">
+
+<!-- CONNECT TEXT -->
+#### Let's connect and collaborate! 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-omkar-vardhan)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagilla.omkarvardhan@gmail.com)
