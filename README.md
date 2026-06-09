@@ -65,7 +65,7 @@ I'm a passionate developer constantly learning and leveling up my skills in soft
 <p>
   <img align="left" src="https://media.tenor.com/dz_3uUplPXEAAAAj/eating-arcade.gif" width="25%" alt="arcade-gif">
   <br>
-  <img align="right" src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=1000&color=00E6EB&width=550&height=180&vCenter=true&center=true&lines=Programmer:+A+machine+that+turns|coffee+into+code" alt="Pixel Quote" />
+  <img align="right" src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=1000&color=00E6EB&width=550&height=180&vCenter=true&center=true&lines=Programmer:+A+machine+that+turns+coffee+into+code" alt="Pixel Quote" />
 </p>
 
 <br clear="all">
