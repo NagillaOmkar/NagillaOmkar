@@ -10,7 +10,7 @@
 Hello World! 👋
 
 **Hi, I'm Omkar Vardhan!** 
-I’m a passionate developer constantly learning and leveling up my skills in software development. 🚀
+I'm a passionate developer constantly learning and leveling up my skills in software development. 🚀
 
 💻 Currently, I'm focusing on strengthening my Data Structures and Algorithms (DSA) logic using **Java**, while diving into full-stack web development.
 🌟 I am also actively exploring the exciting world of **Generative AI** and **RAG** (Retrieval-Augmented Generation) to stay ahead of the curve and build smart, modern applications.
@@ -51,6 +51,7 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 <!-- IRON MAN & STREAK -->
+<br>
 <img src="https://github.com/NagillaOmkar/NagillaOmkar/blob/main/I'm.gif?raw=true" align="right" width="15%" alt="iron-man">
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NagillaOmkar&theme=tokyonight&hide_border=true" alt="Streak Stats" /></p>
@@ -63,7 +64,8 @@ I’m a passionate developer constantly learning and leveling up my skills in so
 <!-- BOTTOM ARCADE GIF & PIXEL QUOTE -->
 <p>
   <img align="left" src="https://media.tenor.com/dz_3uUplPXEAAAAj/eating-arcade.gif" width="25%" alt="arcade-gif">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=1000&color=00E6EB&width=550&height=180&vCenter=true&center=true&lines=Programmer:+A+machine+that+turns+coffee+into+code" alt="Pixel Quote" />
+  <br>
+  <img align="right" src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=1000&color=00E6EB&width=550&height=180&vCenter=true&center=true&lines=Programmer:+A+machine+that+turns|coffee+into+code" alt="Pixel Quote" />
 </p>
 
 <br clear="all">
